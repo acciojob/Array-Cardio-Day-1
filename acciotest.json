@@ -1,4 +1,4 @@
 {
-    "testRepo": "Name(not the link) of the Solution Repo",
+    "testRepo": "Array-Cardio-Day-1-Solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
